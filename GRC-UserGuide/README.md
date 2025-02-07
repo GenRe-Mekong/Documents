@@ -1,0 +1,3 @@
+## GRC user guides
+- <a href="https://github.com/GenRe-Mek0ng/Documents/blob/b918eae72b2834537955db97b552ca2596239483/GRC_UserGuide-v1.2.pdf" target="_blank">__`GRC_UserGuide-v1.2.pdf`__</a>: Explanation of data in GRC version 1.2
+- <a href="https://github.com/GenRe-Mek0ng/Documents/blob/b918eae72b2834537955db97b552ca2596239483/GRC_UserGuide-v1.4.pdf" target="_blank">__`GRC_UserGuide-v1.4.pdf`__</a>: Explanation of data in GRC version 1.4. Accompanying **data dictionary** of GRC v1.4 can be found <a href="https://github.com/GenRe-Mek0ng/Documents/blob/461fb3a84c6c8c906583c8338267dcd56ead2851/Pf-GenRe-GRCv1.4-DataDictionary.xlsx" target="_blank">__here__</a>
